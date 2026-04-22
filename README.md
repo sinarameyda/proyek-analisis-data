@@ -1,6 +1,7 @@
 Proyek Analisis Data E-Commerce
 
 Deskripsi Proyek
+
 Proyek ini bertujuan untuk menganalisis E-Commerce Public Dataset guna memahami tren pesanan, kategori produk dengan kontribusi revenue terbesar, serta karakteristik pelanggan berdasarkan analisis RFM (Recency, Frequency, Monetary).
 
 Pertanyaan Bisnis
